@@ -1,0 +1,15 @@
+# Set the wifi
+# Use single quote instead (') , if special character used on these parameter (ssid or key)
+# Copy these line, and increase variable number (net1,net2,net3,...,net99) for define another ssid
+
+net1_ssid="mySSID"
+net1_encryption="psk2"
+net1_key='mySSID'
+
+net2_ssid="mySSID2"
+net2_encryption="psk2"
+net2_key='mySSIDisSuper"Secure"'
+
+net3_ssid='my*SSID3'
+net3_encryption="psk2"
+net3_key='mySSID'
