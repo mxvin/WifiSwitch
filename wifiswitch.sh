@@ -58,7 +58,7 @@ while [ "$scanres" = "" ]; do
 done
 
 n=0
-#Match our ssid list to discovered ssid before
+#Match our ssid list to discovered ssid
 while [ "1" ]; do
 	n=$(expr "$n" + "1")
 
