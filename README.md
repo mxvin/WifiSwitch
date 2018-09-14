@@ -1,4 +1,3 @@
-# WifiSwitch
 # WifiSwitch -- Simple Multiple Wifi Connector for OpenWrt
 
 Based on YAWAC Yet Another Wifi Auto Connect (YAWAC) https://github.com/mehdichaouch/YAWAC
